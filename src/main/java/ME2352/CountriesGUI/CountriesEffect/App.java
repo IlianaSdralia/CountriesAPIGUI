@@ -41,6 +41,20 @@ public class App extends Application {
         ComboBox<String> pathComboBox = new ComboBox<>(FXCollections.observableArrayList(PATHS));
 
         TextField searchField = new TextField();
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         Button searchButton = new Button("Search");
         ListView<String> resultsList = new ListView<>();
 
